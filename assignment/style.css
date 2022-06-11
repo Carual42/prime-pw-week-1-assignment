@@ -22,6 +22,7 @@ p {
     color: rgb(150, 89, 89);
     font-style: italic;
     font-size: 25px;
+    text-align: center;
 }
 /* Put a border around your image */
 .img1{
