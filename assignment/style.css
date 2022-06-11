@@ -6,22 +6,32 @@ body{
     margin: 10% 20%;
   }
 /* Make the header and footer a different color from the background */
-.header{
-color: blue;
+header{
+
+background-color: blue;
 }
 footer{
-    color: blue;
+    background-color: blue;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1{
 text-align: center;
 }
 /* Make your p tag a different color and italic */
-p, u1{
-    color: brown;
+p {
+    color: rgb(150, 89, 89);
     font-style: italic;
+    font-size: 25px;
 }
 /* Put a border around your image */
-p.double {border-style: double;
-border-color: blueviolet;}
+.img1{
+    position: center;
+    width: 70%;
+    border-style: double;
+    border-color: blueviolet;
+}
+
 /* Change the font-family of your list */
+u1{
+    font-family: 'Trebuchet MS';
+}
